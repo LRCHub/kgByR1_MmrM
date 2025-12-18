@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "人間",
+  "base_artist": "703号室",
+  "createdAt": "2025-12-18T03:30:44.199452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ex.人間",
+      "artist": "syrup16g",
+      "has_synced": false,
+      "path": "select/01_ex.人間_syrup16g.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ex. 人間",
+      "artist": "Syrup16g",
+      "has_synced": false,
+      "path": "select/02_Ex._人間_Syrup16g.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ningen;人間",
+      "artist": "MEJIBRAY",
+      "has_synced": true,
+      "path": "select/03_Ningen;人間_MEJIBRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/04_人間_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "385",
+      "has_synced": false,
+      "path": "select/05_人間_385.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/06_人間_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "周蕙",
+      "has_synced": false,
+      "path": "select/07_人間_周蕙.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/08_人間_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "Ivy Yan",
+      "has_synced": false,
+      "path": "select/09_人間_Ivy_Yan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "人間",
+      "artist": "王菲",
+      "has_synced": true,
+      "path": "select/10_人間_王菲.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人間",
+      "artist": "703号室",
+      "has_synced": false,
+      "path": "select/pl_01_人間_703号室.txt"
+    }
+  ]
+}
